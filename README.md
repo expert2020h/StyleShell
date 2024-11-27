@@ -1,0 +1,1 @@
+If you're curious about building a simple yet professional website, check out Phone Case Studio. This project focuses on showcasing unique phone case designs through a streamlined interface. From content organization using HTML to beautifying with CSS, the site offers a great example of how to optimize the user experience.
